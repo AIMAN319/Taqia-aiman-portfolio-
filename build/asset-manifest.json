@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dd448074.css",
+    "main.js": "/static/js/main.e65e6437.js",
+    "static/media/taqia-photo.jpg.jpeg": "/static/media/taqia-photo.jpg.5d780520a4b4757424b5.jpeg",
+    "index.html": "/index.html",
+    "main.dd448074.css.map": "/static/css/main.dd448074.css.map",
+    "main.e65e6437.js.map": "/static/js/main.e65e6437.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd448074.css",
+    "static/js/main.e65e6437.js"
+  ]
+}
